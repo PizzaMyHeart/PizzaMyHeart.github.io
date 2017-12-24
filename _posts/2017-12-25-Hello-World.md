@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello World!
-date: 2017-12-25
 ---
 
 Merry Christmas to all! It's taken me a little longer than I expected to get this blog up and running- well, here's hoping it doesn't crash the moment I publish this, so if you see this, all praise be to the mysterious gods of the interwebs. I'm sure you're wondering what this blog is about. Allow me to explain.
