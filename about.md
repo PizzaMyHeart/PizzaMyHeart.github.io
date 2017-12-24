@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Every week, I explore the history behind an interesting street name.
 
-### More Information
+For more information, [read this blog post](https://www.streetnames.online/hello-world/).
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
