@@ -16,3 +16,6 @@ Anyway, while holidaying in Nice, I happened upon a busy road named Avenue de Ve
 Again, I want to emphasise that I'm no authority on the subject of history. Rather than trying to compile a reference of any kind, I hope this side project will encourage me to go deeper down the rabbit hole, to dig past the superficial details of historic events and people. And who knows, if my ramblings happen to entice you to venture down the rabbit hole with me, then so much the better!
 
 So I hope this is the start of a series of posts about the rich stories that make up our history, as signposted by street names. Next week, a post about the aforementioned Avenue de Verdun in greater detail. Stay tuned.▪
+
+
+*Edit: This blog was built using the [Jekyll](https://jekyllrb.com/) theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/). It did stop working after I published this post- though I must say, solely due to my own ineffective tinkering rather than any fault of the theme itself- so I rebuilt it using [Jekyll Now](https://github.com/barryclark/jekyll-now), which is much easier to get up and running for a simple blog such as this. Definitely do check both themes out if you're thinking of trying out a static site generator.*
